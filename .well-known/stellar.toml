@@ -1,0 +1,27 @@
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+VERSION="2.0.0"
+
+ACCOUNTS=[
+"GA5NNS5A3LC5DIK6HHYQJYUWFTTTALGAYXO7L2S6K6ZJD5BCPNPABHSV",
+"GARWG5MF2DNJBVREADKMZSRZRZV77CAOIBYUPHKHIQRDVJ5H3VSCJQGO"
+]
+
+[DOCUMENTATION]
+ORG_NAME="Stellar-CSX"
+ORG_URL="https://stellar-csx.com"
+ORG_PHYSICAL_ADDRESS="1234 Fake Dr"
+ORG_OFFICIAL_EMAIL="webmaster@stellar-csx.com"
+ORG_KEYBASE="csx"
+ORG_DESCRIPTION="This is a fake coin to prove that anyone can make worthless tokens that mimic real companies"
+
+[[PRINCIPALS]]
+name="Some Guy"
+email="Someguy@stellar-csx.com"
+
+
+[[CURRENCIES]]
+code="CSX"
+issuer="GA5NNS5A3LC5DIK6HHYQJYUWFTTTALGAYXO7L2S6K6ZJD5BCPNPABHSV"
+is_asset_anchored=false
+desc="CSX is a token to prove anyone can make a fake token that looks like a real company. It has no monetary value"
+image="https://www.csx.com/wwwcsx15/includes/themes/wwwcsx/images/csxlogo_3.png"
