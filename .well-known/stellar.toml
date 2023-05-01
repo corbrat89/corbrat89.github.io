@@ -2,7 +2,7 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 VERSION="2.0.0"
 
 ACCOUNTS=[
-"GA5NNS5A3LC5DIK6HHYQJYUWFTTTALGAYXO7L2S6K6ZJD5BCPNPABHSV",
+"GBQBW7X5YS43TYJR7GVNVYX23KVOYF6MQ3IWSV6RAQC54Q2YVBZP5ZHG",
 "GARWG5MF2DNJBVREADKMZSRZRZV77CAOIBYUPHKHIQRDVJ5H3VSCJQGO"
 ]
 
@@ -21,7 +21,7 @@ email="Someguy@stellar-csx.com"
 
 [[CURRENCIES]]
 code="CSX"
-issuer="GA5NNS5A3LC5DIK6HHYQJYUWFTTTALGAYXO7L2S6K6ZJD5BCPNPABHSV"
+issuer="GBQBW7X5YS43TYJR7GVNVYX23KVOYF6MQ3IWSV6RAQC54Q2YVBZP5ZHG"
 is_asset_anchored=false
 desc="CSX is a token to prove anyone can make a fake token that looks like a real company. It has no monetary value"
 image="https://www.csx.com/wwwcsx15/includes/themes/wwwcsx/images/csxlogo_3.png"
